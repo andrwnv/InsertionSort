@@ -18,3 +18,5 @@
     }
 
     $array = insertionSort($array);
+
+?>
